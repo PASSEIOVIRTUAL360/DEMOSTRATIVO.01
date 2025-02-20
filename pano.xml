@@ -22,7 +22,7 @@
       <hotspot target="$fwd" id="Point01" distance="9.80634" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-353.952" url="{node1}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -47,10 +47,10 @@
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
       <hotspot target="$fwd" id="Point01" distance="11.6494" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="5.00262" url="{node2}"/>
       <hotspot target="$fwd" id="Point02" distance="9.80634" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="185.809" url="{node3}"/>
-      <hotspot target="$fwd" id="Point03" distance="4.20901" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="310.205" url="{node10}"/>
+      <hotspot target="$fwd" id="Point03" distance="16.0098" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="302.44" url="{node10}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -77,7 +77,7 @@
       <hotspot target="$fwd" id="Point02" distance="12.5676" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="21.0459" url="{node4}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -102,10 +102,10 @@
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
       <hotspot target="$fwd" id="Point01" distance="12.5676" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="221.079" url="{node2}"/>
       <hotspot target="$fwd" id="Point02" distance="12.7924" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="85.8823" url="{node5}"/>
-      <hotspot target="$fwd" id="Point03" distance="16.6342" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="277.719" url="{node11}"/>
+      <hotspot target="$fwd" id="Point03" distance="22.6411" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="278.013" url="{node11}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -132,7 +132,7 @@
       <hotspot target="$fwd" id="Point02" distance="12.7898" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="0.945337" url="{node6}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -157,9 +157,10 @@
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
       <hotspot target="$fwd" id="Point01" distance="12.7898" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="175.933" url="{node5}"/>
       <hotspot target="$fwd" id="Point02" distance="13.8122" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="5.96475" url="{node7}"/>
+      <hotspot target="$fwd" id="Point03" distance="17.2801" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="82.4521" url="{node8}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -183,12 +184,12 @@
       <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
       <hotspot target="$fwd" id="Point01" distance="13.8122" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="178.637" url="{node6}"/>
-      <hotspot target="$fwd" id="Point02" distance="18.5712" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="113.225" url="{node8}"/>
-      <hotspot target="$fwd" id="Point03" distance="28.8264" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="249.428" url="{node9}"/>
+      <hotspot target="$fwd" id="Point02" distance="19.4381" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="118.826" url="{node8}"/>
+      <hotspot target="$fwd" id="Point03" distance="28.5447" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="251.783" url="{node9}"/>
       <hotspot target="$fwd" id="Point04" distance="5.04107" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-19.1041" url="{node16}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -207,14 +208,15 @@
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
     </view>
-    <userdata nodeid="node8" tags="OFIII" datetime="12/02/2025 00:34" longitude="-37.93769673" info="" latitude="-9.54790191" description="" copyright="" heading="-81.9704" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <userdata nodeid="node8" tags="OFIII" datetime="12/02/2025 00:34" longitude="-37.93770343" info="" latitude="-9.54788471" description="" copyright="" heading="-81.9704" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
-      <hotspot target="$fwd" id="Point01" distance="18.5712" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="51.2439" url="{node7}"/>
+      <hotspot target="$fwd" id="Point01" distance="19.4381" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="56.8442" url="{node7}"/>
+      <hotspot target="$fwd" id="Point02" distance="17.2801" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="13.1427" url="{node6}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -233,14 +235,15 @@
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
     </view>
-    <userdata nodeid="node9" tags="OFIII" datetime="12/02/2025 00:37" longitude="-37.93808303" info="" latitude="-9.54801363" description="" copyright="" heading="-9.1317" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <userdata nodeid="node9" tags="OFIII" datetime="12/02/2025 00:37" longitude="-37.93808035" info="" latitude="-9.54802421" description="" copyright="" heading="-9.1317" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
-      <hotspot target="$fwd" id="Point01" distance="28.8264" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-99.7152" url="{node7}"/>
+      <hotspot target="$fwd" id="Point01" distance="28.5447" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-97.3593" url="{node7}"/>
+      <hotspot target="$fwd" id="Point02" distance="20.3354" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="25.7026" url="{node11}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -259,14 +262,15 @@
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
     </view>
-    <userdata nodeid="node10" tags="OFIII" datetime="12/02/2025 00:39" longitude="-37.93815270" info="" latitude="-9.54767641" description="" copyright="" heading="153.887" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <userdata nodeid="node10" tags="OFIII" datetime="12/02/2025 00:39" longitude="-37.93821841" info="" latitude="-9.54776105" description="" copyright="" heading="153.887" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
-      <hotspot target="$fwd" id="Point01" distance="4.20901" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="126.964" url="{node1}"/>
+      <hotspot target="$fwd" id="Point01" distance="16.0098" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="119.199" url="{node1}"/>
+      <hotspot target="$fwd" id="Point02" distance="13.055" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-10.4562" url="{node11}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -279,20 +283,22 @@
       <level preload="1" predecode="1" width="312" height="312"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-113.643">
+    <view fovmode="2" pannorth="-116.305">
       <start projection="4" tilt="0" fov="100" pan="0"/>
       <flyin projection="9" tilt="-90" fov="170" pan="0"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
     </view>
-    <userdata nodeid="node11" tags="OFIII" datetime="12/02/2025 00:41" longitude="-37.93813532" info="" latitude="-9.54785426" description="" copyright="" heading="-113.643" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <userdata nodeid="node11" tags="OFIII" datetime="12/02/2025 00:41" longitude="-37.93818628" info="" latitude="-9.54787410" description="" copyright="" heading="-116.305" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
-      <hotspot target="$fwd" id="Point01" distance="16.6342" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-183.208" url="{node4}"/>
+      <hotspot target="$fwd" id="Point01" distance="22.6411" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-185.576" url="{node4}"/>
+      <hotspot target="$fwd" id="Point02" distance="20.3354" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-261.471" url="{node9}"/>
+      <hotspot target="$fwd" id="Point03" distance="13.055" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-100.648" url="{node10}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -318,7 +324,7 @@
       <hotspot target="$fwd" id="Point01" distance="3.24716" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-14.4656" url="{node13}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -345,7 +351,7 @@
       <hotspot target="$fwd" id="Point02" distance="3.24716" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="546.493" url="{node12}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -372,7 +378,7 @@
       <hotspot target="$fwd" id="Point02" distance="3.93472" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="177.712" url="{node13}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -399,7 +405,7 @@
       <hotspot target="$fwd" id="Point02" distance="3.24351" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="526.282" url="{node14}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
@@ -426,7 +432,7 @@
       <hotspot target="$fwd" id="Point02" distance="3.87376" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="139.823" url="{node15}"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="7" type="mesh" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
     <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
   </panorama>
