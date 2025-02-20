@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node3" hassounds="0" appversion="7.1.7" apprev="20981">
+  <panorama id="node3">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-202.633">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node3" tags="OFIII" datetime="12/02/2025 00:25" longitude="-37.93817824" info="" latitude="-9.54756529" description="" copyright="" heading="-202.633" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="9.80634" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-353.952" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="157.128">
+      <start projection="4" tilt="-2.13818e-08" fov="100" pan="-2.08549e-07"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node1" tags="OFIII" datetime="12/02/2025 00:21" longitude="-37.93813532" info="" latitude="-9.54764266" description="" copyright="" heading="157.128" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="11.6494" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="5.00262" url="{node2}"/>
+      <hotspot target="$fwd" id="Point02" distance="9.80634" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="185.809" url="{node3}"/>
+      <hotspot target="$fwd" id="Point03" distance="4.20901" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="310.205" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="147.251">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node2" tags="OFIII" datetime="12/02/2025 00:23" longitude="-37.93808565" info="" latitude="-9.54773527" description="" copyright="" heading="147.251" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="11.6494" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="175.126" url="{node1}"/>
+      <hotspot target="$fwd" id="Point02" distance="12.5676" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="21.0459" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="167.284">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node4" tags="OFIII" datetime="12/02/2025 00:28" longitude="-37.93799317" info="" latitude="-9.54780203" description="" copyright="" heading="167.284" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="12.5676" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="221.079" url="{node2}"/>
+      <hotspot target="$fwd" id="Point02" distance="12.7924" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="85.8823" url="{node5}"/>
+      <hotspot target="$fwd" id="Point03" distance="16.6342" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="277.719" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="172.351">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node5" tags="OFIII" datetime="12/02/2025 00:29" longitude="-37.93787782" info="" latitude="-9.54778483" description="" copyright="" heading="172.351" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="12.7924" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="270.949" url="{node4}"/>
+      <hotspot target="$fwd" id="Point02" distance="12.7898" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="0.945337" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="167.339">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node6" tags="OFIII" datetime="12/02/2025 00:31" longitude="-37.93786039" info="" latitude="-9.54789856" description="" copyright="" heading="167.339" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="12.7898" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="175.933" url="{node5}"/>
+      <hotspot target="$fwd" id="Point02" distance="13.8122" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="5.96475" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="160.011">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node7" tags="OFIII" datetime="12/02/2025 00:32" longitude="-37.93782016" info="" latitude="-9.54801627" description="" copyright="" heading="160.011" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="13.8122" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="178.637" url="{node6}"/>
+      <hotspot target="$fwd" id="Point02" distance="18.5712" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="113.225" url="{node8}"/>
+      <hotspot target="$fwd" id="Point03" distance="28.8264" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="249.428" url="{node9}"/>
+      <hotspot target="$fwd" id="Point04" distance="5.04107" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-19.1041" url="{node16}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-81.9704">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node8" tags="OFIII" datetime="12/02/2025 00:34" longitude="-37.93769673" info="" latitude="-9.54790191" description="" copyright="" heading="-81.9704" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="18.5712" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="51.2439" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-9.1317">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node9" tags="OFIII" datetime="12/02/2025 00:37" longitude="-37.93808303" info="" latitude="-9.54801363" description="" copyright="" heading="-9.1317" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="28.8264" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-99.7152" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="153.887">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node10" tags="OFIII" datetime="12/02/2025 00:39" longitude="-37.93815270" info="" latitude="-9.54767641" description="" copyright="" heading="153.887" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="4.20901" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="126.964" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-113.643">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node11" tags="OFIII" datetime="12/02/2025 00:41" longitude="-37.93813532" info="" latitude="-9.54785426" description="" copyright="" heading="-113.643" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="16.6342" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-183.208" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="44.9008">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node12" tags="OFIII" datetime="12/02/2025 01:09" longitude="-37.93793209" info="" latitude="-9.54812079" description="" copyright="" heading="44.9008" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="3.24716" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="-14.4656" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="425.859">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node13" tags="OFIII" datetime="12/02/2025 01:11" longitude="-37.93790661" info="" latitude="-9.54810591" description="" copyright="" heading="425.859" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="3.93472" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="351.584" url="{node14}"/>
+      <hotspot target="$fwd" id="Point02" distance="3.24716" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="546.493" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="71.9872">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node14" tags="OFIII" datetime="12/02/2025 01:12" longitude="-37.93787207" info="" latitude="-9.54809632" description="" copyright="" heading="71.9872" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="3.24351" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="1.84807" url="{node15}"/>
+      <hotspot target="$fwd" id="Point02" distance="3.93472" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="177.712" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="416.421">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node15" tags="OFIII" datetime="12/02/2025 01:14" longitude="-37.93784425" info="" latitude="-9.54808641" description="" copyright="" heading="416.421" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="3.87376" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="371.832" url="{node16}"/>
+      <hotspot target="$fwd" id="Point02" distance="3.24351" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="526.282" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltilesize="510" levelbias="0.400" width="5000" height="5000" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="4.41136">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata nodeid="node16" tags="OFIII" datetime="12/02/2025 01:15" longitude="-37.93781945" info="" latitude="-9.54806160" description="" copyright="" heading="4.41136" comment="" source="" title="LM TUR | Agência de Turismo" customnodeid="" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundalpha="1" border="1" width="180" height="20" borderradius="1" bordercolor="0x000000" borderalpha="1" background="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot target="$fwd" id="Point01" distance="5.04107" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="5.29628" url="{node7}"/>
+      <hotspot target="$fwd" id="Point02" distance="3.87376" tilt="0" description="" skinid="ht_node" title="LM TUR | Agência de Turismo" pan="139.823" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" softedge="0" zoomout="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" speedwheel="1" rubberband="0" sensitivity="8" invertwheel="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" description="" copyright="" comment="" title="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
