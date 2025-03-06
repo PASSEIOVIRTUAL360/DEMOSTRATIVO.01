@@ -22,7 +22,7 @@
       <hotspot distance="3.73077" pan="-22.2364" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point01" url="{node1}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -49,7 +49,7 @@
       <hotspot distance="4.00496" pan="-50.6193" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point02" url="{node3}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -77,7 +77,7 @@
       <hotspot distance="3.93074" pan="334.208" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point03" url="{node6}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -104,7 +104,7 @@
       <hotspot distance="4.18396" pan="48.0895" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point02" url="{node5}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -130,7 +130,7 @@
       <hotspot distance="4.18396" pan="132.58" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point01" url="{node4}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -158,7 +158,7 @@
       <hotspot distance="3.7512" pan="-26.4617" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point03" url="{node8}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -184,7 +184,7 @@
       <hotspot distance="4.2587" pan="46.7693" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point01" url="{node6}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -212,7 +212,7 @@
       <hotspot distance="4.22563" pan="-52.5326" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point03" url="{node10}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -238,7 +238,7 @@
       <hotspot distance="3.93087" pan="96.0833" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point01" url="{node8}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -265,7 +265,7 @@
       <hotspot distance="4.08438" pan="-20.3261" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point02" url="{node11}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -292,7 +292,7 @@
       <hotspot distance="3.80951" pan="326.984" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point02" url="{node12}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -319,7 +319,7 @@
       <hotspot distance="3.63992" pan="330.106" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point02" url="{node13}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -347,7 +347,7 @@
       <hotspot distance="4.34973" pan="270.935" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point03" url="{node16}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -374,7 +374,7 @@
       <hotspot distance="3.24941" pan="264.787" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point02" url="{node15}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -401,7 +401,7 @@
       <hotspot distance="4.35192" pan="233.806" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point02" url="{node16}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
@@ -428,7 +428,7 @@
       <hotspot distance="4.34973" pan="-101.999" title="Hotel Itaberaba" tilt="0" description="" target="$fwd" id="Point02" url="{node13}" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomout="0" blendtime="1" blendcolor="0x000000" type="mesh" enabled="1" zoomafteroutfov="40" zoomfov="40" delay="none" softedge="0" zoomin="7" zoomoutpause="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" contextvr="1" hideabout="0" contextprojections="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" rubberband="0" simulatemass="1"/>
   </panorama>
